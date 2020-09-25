@@ -1,2 +1,2 @@
-import Utils from "Utils";
+import Utils from "./Utils.js";
 export {Utils};
